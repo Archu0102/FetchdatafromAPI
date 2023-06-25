@@ -1,0 +1,21 @@
+/* id{
+    height: 1.6rem;
+    width: 1.5rem;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    border-radius: 5rem;
+}
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2rem;
+} */
+
+/* @media screen and (max-width: 600px) {
+    .img{
+        height: 21vh;
+        width: 17vw;
+        border-radius: 1rem;
+    }
+} */
